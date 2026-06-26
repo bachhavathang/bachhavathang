@@ -55,5 +55,14 @@ Before the agents, there were the pipelines. At AIG I built LLM/RAG systems over
 
 ---
 
-![Athang's GitHub stats](https://github-readme-stats.vercel.app/api?username=bachhavathang&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bachhavathang&layout=compact&hide_border=true&langs_count=8)
+### Toolkit
+
+**Languages** · Python · SQL · Bash
+**AI / LLM** · LangGraph · LangChain · RAG · Transformers · spaCy · Pinecone · Milvus · semantic search
+**ML** · scikit-learn · XGBoost · PyTorch · Bayesian modeling (PyMC) · A/B testing
+**Serving & MLOps** · FastAPI · Flask · Docker · CI/CD · MLflow · model monitoring
+**Data & Cloud** · BigQuery · ETL pipelines · GCP (Vertex AI) · AWS (S3, Lambda, SageMaker)
+
+---
+
+<sub>📌 Pinned repositories below — that's the work worth your time.</sub>
